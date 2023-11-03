@@ -35,6 +35,8 @@ And I love fruit very much. 🍎 🍓 🥭 🥝
 ![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilin90&show_icons=true&theme=tokyonight)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lilin90&show_icons=true&theme=tokyonight)
 
+<img src="https://api.vaunt.dev/v1/github/entities/lilin90/achievements?format=svg&limit=3" width="350" />
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilin90&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
