@@ -32,8 +32,8 @@ And I love fruit very much. 🍎 🍓 🥭 🥝
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/liliansd)
 [![微信公众号](https://img.shields.io/badge/微信公众号-white?logo=wechat)](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
 
-![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilin90&show_icons=true&theme=tokyonight)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lilin90&show_icons=true&theme=tokyonight)
+![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilin90&show_icons=true&theme=tokyonight&width=400)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lilin90&show_icons=true&theme=tokyonight&width=600)
 
 <img src="https://api.vaunt.dev/v1/github/entities/lilin90/achievements?format=svg&limit=3" width="500" />
 
