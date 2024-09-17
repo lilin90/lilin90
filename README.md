@@ -17,7 +17,7 @@ And I love fruit very much. 🍎 🍓 🥭 🥝
 2. Keep writing and publishing articles about tech comm (technical writing, stories, self-improvement, etc.) in Chinese:
 
     - [知乎专栏：技术传播那些事儿](https://www.zhihu.com/column/tc-fun)
-    - [微信公众号：技术传播那些事儿](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
+    - [微信公众号：技术传播那些事儿](https://res.cloudinary.com/lilian-photos/image/upload/v1726561496/cover/wechat-qrcode-scan-to-follow-tcfun.jpg)
 
 
 ### Get in touch
