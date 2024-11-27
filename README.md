@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🤓 I'm Lilian Lee 李琳, a Content Strategist | Senior Technical Writer.
+🤓 I'm Lilian Lee 李琳, a Senior Technical Writer | Content Strategist.
 
 I love photography, traveling, reading, cooking, and enjoying delicious food.
 
