@@ -2,7 +2,7 @@
 
 🤓 I'm Lilian Lee 李琳, a Senior Technical Writer | Content Strategist.
 
-I love photography, traveling, reading, cooking, and enjoying delicious food.
+I love photography, traveling, reading, and enjoying delicious food.
 
 And I love fruit very much. 🍎 🍓 🥭 🥝
 
