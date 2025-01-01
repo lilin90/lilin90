@@ -30,7 +30,7 @@ And I love fruit very much. 🍎 🍓 🥭 🥝
 [![Pixabay](https://img.shields.io/badge/Pixabay-e6e6e6?logo=pixabay)](https://pixabay.com/zh/users/lilian90-1322641/)
 
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/liliansd)
-[![微信公众号](https://img.shields.io/badge/微信公众号-white?logo=wechat)](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
+[![微信公众号](https://img.shields.io/badge/微信公众号-white?logo=wechat)](https://res.cloudinary.com/lilian-photos/image/upload/v1726561496/cover/wechat-qrcode-scan-to-follow-tcfun.jpg)
 
 ![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilin90&show_icons=true&theme=tokyonight&include_all_commits=true&number_format=long&rank_icon=percentile&card_width=500) 
 [![GitHub streak stats](https://streak-stats.demolab.com/?user=lilin90&starting_year=2017&theme=tokyonight&card_width=500)](https://git.io/streak-stats)
