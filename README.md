@@ -28,7 +28,7 @@ logo: https://simpleicons.org/ -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lilian-lee-54305777/)
 [![X](https://img.shields.io/badge/X-grey?logo=x)](https://twitter.com/lilianlee90/)
 [![Instagram](https://img.shields.io/badge/Instagram-cc66ff?logo=instagram)](https://www.instagram.com/lilianlee.me/)
-[![Pixabay](https://img.shields.io/badge/Pixabay-e6e6e6?logo=pixabay)](https://pixabay.com/zh/users/lilian90-1322641/)
+[![Pixabay](https://img.shields.io/badge/Pixabay-4ca94c?logo=pixabay)](https://pixabay.com/zh/users/lilian90-1322641/)
 
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/liliansd)
 [![微信公众号](https://img.shields.io/badge/微信公众号-white?logo=wechat)](https://res.cloudinary.com/lilian-photos/image/upload/v1726561496/cover/wechat-qrcode-scan-to-follow-tcfun.jpg)
